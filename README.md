@@ -22,8 +22,8 @@ The training code reads images from a directory of image files. In the [datasets
 
 ## Training
 
-run .sh file in train_sh
+run bash file in train_sh
 
 ## Inference
 
-run .sh file in test_sh
+run bash file in test_sh
