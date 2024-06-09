@@ -2,7 +2,7 @@
 
 **Mix-DDPM: Enhancing Diffusion Models through Fitting Mixture Noise with Global Stochastic Offset** <br>
 *Hanzhang Wang, Deming Zhai, Xiong Zhou, Junjun Jiang, Xianming Liu.* <br>
-ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2024.
+ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM), 2024.
 
 ## Reference
 
