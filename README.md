@@ -6,6 +6,17 @@ ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM
 
 ## Reference
 
+Citation:
+
+```latex
+@article{wang2024mix,
+  title={Mix-DDPM: Enhancing Diffusion Models through Fitting Mixture Noise with Global Stochastic Offset},
+  author={Wang, Hanzhang and Zhai, Deming and Zhou, Xiong and Jiang, Junjun and Liu, Xianming},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  publisher={ACM New York, NY}
+}
+```
+
 ## Installation
 
 Clone this repository and navigate to it in your terminal. Then run:
